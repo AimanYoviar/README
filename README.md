@@ -52,24 +52,5 @@ public class Bus3 {
     }
 }
 
-ublic static void main(String[] abc){
-        //membuat objek busBesar dari class Bus3
-   UjiBus3 Bus = new UjiBus3(5);
-        Bus.getpenumpang(17);
-        Bus.getPenumpang(24);
-        Bus.cetakpenumpang();
-        // penambahan penumpang
-        Bus.addpenumpang (2);//tambah 2 penumpang
-        Bus.cetakpenumpang();
-        // penambahan penumpang
-        Bus.addpenumpang (1);//tambah 2 penumpang
-        Bus.cetakpenumpang();
-        // penambahan penumpang
-        Bus.addpenumpang (2);//tambah 2 penumpang
-        Bus.cetakpenumpang();
-        // penambahan penumpang
-        Bus.addpenumpang (2);//tambah 2 penumpang
-        Bus.cetakpenumpang();
-        
-    }
+
     
