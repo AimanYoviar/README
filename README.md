@@ -57,7 +57,7 @@ public class UjiBus3 {
     
     public static void main(String[] abc){
         //membuat objek busBesar dari class Bus3
-   UjiBus3 Bus = new UjiBus3(5);
+    UjiBus3 Bus = new UjiBus3(5);
         Bus.getpenumpang(17);
         Bus.getPenumpang(24);
         Bus.cetakpenumpang();
